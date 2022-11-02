@@ -1,0 +1,15 @@
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ref\ConsoleApp7.dll
+D:\VSProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+D:\VSProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
